@@ -8,9 +8,9 @@
 
 ### Onde me encontrar:
 
-[Instagram](https://www.instagram.com/evertonrafaelumbelino/?next=%2F&hl=en)
+**Meu** [**Instagram**](https://www.instagram.com/evertonrafaelumbelino/?next=%2F&hl=en)
 
-[Facebook](https://www.facebook.com/people/Everton-Rafael-Umbelino-Dos-Santos/pfbid0BzctJBRqsUcaW2w3Fi52Y4vt8XydBj8vbtrkDPpqZWYFXCFU958zY75hGDxPUuUDl/)
+**Meu** [**Facebook**](https://www.facebook.com/people/Everton-Rafael-Umbelino-Dos-Santos/pfbid0BzctJBRqsUcaW2w3Fi52Y4vt8XydBj8vbtrkDPpqZWYFXCFU958zY75hGDxPUuUDl/)
 
 ### Tecnologias:
 
@@ -21,17 +21,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80px">
 </div>
 
-<!--
-**evertonrafaelumbelino/evertonrafaelumbelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meus status no GitHub:
 
-Here are some ideas to get you started:
+![Everton Rafael GitHub status](https://github-readme-stats.vercel.app/api?username=evertonrafaelumbelino&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Everton Rafael GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonrafaelumbelino&layout=compact&langs_count=7&theme=dracula)
