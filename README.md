@@ -24,10 +24,6 @@
 
 ### Meus status no GitHub:
 
-<div align="center">
 ![Everton Rafael GitHub status](https://github-readme-stats.vercel.app/api?username=evertonrafaelumbelino&show_icons=true&theme=dracula)
-</div>
 
-<div aling="center">
 ![Everton Rafael GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonrafaelumbelino&layout=compact&langs_count=7&theme=dracula)
-</div>
